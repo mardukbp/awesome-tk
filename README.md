@@ -4,11 +4,27 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 # Contents
 
-* [Code Editors](#code-editors)
-* [GUI Designers](#gui-designers)
-* [Tutorials](#tutorials)
-* [Widgets](#widgets)
+* Users
+  - [Internet Itilities](#internet-utilities)
+  - [System Utilities](#system-utilities)
+* Developers
+  - [Code Editors](#code-editors)
+  - [GUI Designers](#gui-designers)
+  - [Tutorials](#tutorials)
+  - [Widgets](#widgets)
 * [Contributing](#contributing)
+
+## Internet Utilities
+
+- [PyIDM | Open-source Alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
+  
+  With a high-speed engine, that supports multiple connections. Uses [youtube-dl](https://youtube-dl.org/).
+
+## System Utilities
+
+- [Windows Inspection Tool Set](https://wits.magicsplat.com/)
+
+  View operating system information, processes, services, users, network interfaces and connections, file shares, printers and more.
 
 ## Code Editors
 
