@@ -1,10 +1,12 @@
 # Contribution Guidelines
 
-1. This is a collection of useful applications developed with Tk and resources to help developers create more.
+1. This is a collection of awesome applications developed with Tk and resources to help developers create more.
 
-2. Please include a Markdown link `[Link text](URL)` and a short description of the application or resource linked to. 
+2. The entries in each category are sorted alphabetically. Please respect the order.
 
-3. Please note that this project has a [Contributor Code of Conduct](code-of-conduct.md). By participating in it you agree to abide by its terms.
+3. Include a Markdown link `[Link text](URL)` and a short description of the application or resource linked to. 
+
+4. Please note that this project has a [Contributor Code of Conduct](code-of-conduct.md). By participating in it you agree to abide by its terms.
 
 ## Adding something to this list
 
