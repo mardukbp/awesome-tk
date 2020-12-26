@@ -9,7 +9,7 @@ A curated list of awesome Tk apps, tutorials and widgets.
   - [Internet Utilities](#internet-utilities)
   - [System Utilities](#system-utilities)
 * Developers
-  - [Code Editors](#code-editors)
+  - [DSLs](#dsls)
   - [GUI Designers](#gui-designers)
   - [Tutorials](#tutorials)
   - [Widgets](#widgets)
@@ -33,9 +33,17 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
   View operating system information, processes, services, users, network interfaces and connections, file shares, printers and more.
 
-## Code Editors
+## DSLs
+
+- [Glimmer DSL for Tk](https://github.com/AndyObtiva/glimmer-dsl-tk)
+
+  Ruby-based DSL providing a declarative syntax for writing GUIs in Tk.
 
 ## GUI Designers
+
+- [Formation studio](https://github.com/ObaraEmmanuel/Formation)
+
+  GUI designer for Tk. Export the design as XML and load it in your code.
 
 ## Tutorials
 
