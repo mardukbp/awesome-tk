@@ -30,7 +30,7 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 ## Scientific Research
 
-- [Huygens Localizer | Scientific Volume Imaging]
+- [Huygens Localizer | Scientific Volume Imaging](https://svi.nl/Huygens-Localizer)
 
   A stand-alone software package for fast & high performance processing of Single Molecule Localization Microscopy data.
 
