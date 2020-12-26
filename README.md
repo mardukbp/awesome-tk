@@ -33,6 +33,12 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
   View operating system information, processes, services, users, network interfaces and connections, file shares, printers and more.
 
+## Books
+
+- [Modern Tkinter for busy Python Programmers](https://tkdocs.com/book.html)
+
+  Quickly learn to create great looking user interfaces for Windows, Mac and Linux using Python's standard GUI toolkit.
+
 ## DSLs
 
 - [Glimmer DSL for Tk](https://github.com/AndyObtiva/glimmer-dsl-tk)
@@ -50,6 +56,10 @@ A curated list of awesome Tk apps, tutorials and widgets.
   GUI designer for Tk. Export the design as XML and load it in your code.
 
 ## Tutorials
+
+- [TkDocs | Modern Tk Best Practices](https://tkdocs.com/)
+
+  
 
 ## Widgets
 
