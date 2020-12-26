@@ -7,6 +7,7 @@ A curated list of awesome Tk apps, tutorials and widgets.
 * Users
   - [Education](#education)
   - [Internet Utilities](#internet-utilities)
+  - [Scientific Research](#scientific-research)
   - [System Utilities](#system-utilities)
 * Developers
   - [DSLs](#dsls)
@@ -26,6 +27,12 @@ A curated list of awesome Tk apps, tutorials and widgets.
 - [PyIDM | Open-source Alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
   
   With a high-speed engine, that supports multiple connections. Uses [youtube-dl](https://youtube-dl.org/).
+
+## Scientific Research
+
+- [Huygens Localizer | Scientific Volume Imaging]
+
+  A stand-alone software package for fast & high performance processing of Single Molecule Localization Microscopy data.
 
 ## System Utilities
 
