@@ -45,7 +45,7 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
   GUI designer for Tk. Export the design as XML and load it in your code.
 
-- [PyGubu](https://github.com/alejandroautalan/pygubu-designer)
+- [Pygubu](https://github.com/alejandroautalan/pygubu-designer)
 
   GUI designer for Tk. Export the design as XML and load it in your code.
 
