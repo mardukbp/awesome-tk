@@ -5,6 +5,7 @@ A curated list of awesome Tk apps, tutorials and widgets.
 # Contents
 
 * Users
+  - [Education](#education)
   - [Internet Utilities](#internet-utilities)
   - [System Utilities](#system-utilities)
 * Developers
@@ -13,6 +14,12 @@ A curated list of awesome Tk apps, tutorials and widgets.
   - [Tutorials](#tutorials)
   - [Widgets](#widgets)
 * [Contributing](#contributing)
+
+## Education
+
+- [EMANIM Classic](https://emanimclassic.szialab.org/)
+
+  Visualize electromagnetic waves.
 
 ## Internet Utilities
 
