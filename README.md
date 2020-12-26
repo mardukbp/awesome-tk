@@ -41,6 +41,10 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 ## Widgets
 
+- [AwesomeTkinter | Pretty Tkinter widgets](https://github.com/Aboghazala/AwesomeTkinter)
+
+  Including radial progress bar, scrollbar without arrows
+
 # Contributing
 
 If you have something awesome to contribute to this list, [read](contributing.md) here how to do it.
