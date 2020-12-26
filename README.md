@@ -4,9 +4,15 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 # Contents
 
+* [Code Editors](#code-editors)
+* [GUI Designers](#gui-designers)
+* [Tutorials](#tutorials)
+* [Widgets](#widgets)
+* [Contributing](#contributing)
+
 ## Code Editors
 
-## GUI designers
+## GUI Designers
 
 ## Tutorials
 
