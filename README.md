@@ -35,7 +35,7 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 ## Books
 
-- [Modern Tkinter for busy Python Programmers](https://tkdocs.com/book.html)
+- [Modern Tkinter for Busy Python Developers by Mark Roseman](https://tkdocs.com/book.html)
 
   Quickly learn to create great looking user interfaces for Windows, Mac and Linux using Python's standard GUI toolkit.
 
