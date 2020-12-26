@@ -5,7 +5,7 @@ A curated list of awesome Tk apps, tutorials and widgets.
 # Contents
 
 * Users
-  - [Internet Itilities](#internet-utilities)
+  - [Internet Utilities](#internet-utilities)
   - [System Utilities](#system-utilities)
 * Developers
   - [Code Editors](#code-editors)
