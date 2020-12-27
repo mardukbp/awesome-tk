@@ -4,7 +4,7 @@
 
 2. Categories and the entries in each category are sorted alphabetically. Please respect the order.
 
-3. Include a Markdown link `[Link text](URL)` and a short description of the application or resource linked to. 
+3. Include a Markdown link `[Link text](URL)` and a one-line description of the application or resource linked to. 
 
 4. Please note that this project has a [Contributor Code of Conduct](code-of-conduct.md). By participating in it you agree to abide by its terms.
 
