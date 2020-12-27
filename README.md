@@ -7,9 +7,10 @@ A curated list of awesome Tk apps, tutorials and widgets.
 # Contents
 
 * Users
+  - [Computer-Aided Design](#computer-aided-design)
   - [Education](#education)
   - [Internet Utilities](#internet-utilities)
-  - [Scientific Research](#scientific-research)
+  - [Science and Engineering](#science-and-engineering)
   - [System Utilities](#system-utilities)
 * Developers
   - [DSLs](#dsls)
@@ -17,6 +18,12 @@ A curated list of awesome Tk apps, tutorials and widgets.
   - [Tutorials](#tutorials)
   - [Widgets](#widgets)
 * [Contributing](#contributing)
+
+## Computer-Aided Design
+
+- [BRL-CAD](https://brlcad.org/)
+
+  A powerful open source cross-platform solid modeling system.
 
 ## Education
 
@@ -30,7 +37,11 @@ A curated list of awesome Tk apps, tutorials and widgets.
   
   With a high-speed engine, that supports multiple connections. Uses [youtube-dl](https://youtube-dl.org/).
 
-## Scientific Research
+## Science and Engineering
+
+- [GiD|https://www.gidhome.com/]
+
+  A universal, adaptive and user-friendly pre and post processor for numerical simulations in science and engineering.
 
 - [Huygens Localizer | Scientific Volume Imaging](https://svi.nl/Huygens-Localizer)
 
