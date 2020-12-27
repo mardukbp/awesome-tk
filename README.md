@@ -8,7 +8,6 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 * Users
   - [Computer-Aided Design](#computer-aided-design)
-  - [Education](#education)
   - [Internet Utilities](#internet-utilities)
   - [Science and Engineering](#science-and-engineering)
   - [Software Development](#software-development)
@@ -31,12 +30,6 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
   Supports your bicycle design and build process of bespoked bicycle frames with a fully parametric bicycle model.  
 
-## Education
-
-- [EMANIM Classic](https://emanimclassic.szialab.org/)
-
-  Visualize electromagnetic waves.
-
 ## Internet Utilities
 
 - [PyIDM](https://github.com/pyIDM/PyIDM)
@@ -48,6 +41,10 @@ A curated list of awesome Tk apps, tutorials and widgets.
   Provides a rich array of information about specific Internet domains.
 
 ## Science and Engineering
+
+- [EMANIM Classic](https://emanimclassic.szialab.org/)
+
+  Visualize electromagnetic waves.
 
 - [GiD](https://www.gidhome.com/)
 
