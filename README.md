@@ -6,12 +6,13 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 # Contents
 
-* Users
+* Applications
   - [Computer-Aided Design](#computer-aided-design)
+  - [Games](#games)
   - [Science and Engineering](#science-and-engineering)
   - [Software Development](#software-development)
   - [Utilities](#utilities)
-* Developers
+* Resources for Developers
   - [Books](#books)
   - [DSLs](#dsls)
   - [GUI Designers](#gui-designers)
@@ -28,6 +29,16 @@ A curated list of awesome Tk apps, tutorials and widgets.
 - [rattleCAD](www.rattlecad.com/)
 
   Supports your bicycle design and build process of bespoked bicycle frames with a fully parametric bicycle model.  
+
+## Games
+
+- [Scidb](http://scidb.sourceforge.net/)
+
+  A chess database application for Linux/Unix and Windows.
+
+- [Scid vs. PC](http://scidvspc.sourceforge.net/)
+
+  A powerful Chess Toolkit. Create huge databases, run chess engines, and play casual games against the computer or online with the Free Internet Chess Server.
 
 ## Science and Engineering
 
@@ -127,7 +138,15 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 - [AwesomeTkinter | Pretty Tkinter widgets](https://github.com/Aboghazala/AwesomeTkinter)
 
-  Including radial progress bar, scrollbar without arrows
+  Including radial progress bar, scrollbar without arrows.
+
+- [Revised Implementation of Tk Text Widget](http://scidb.sourceforge.net/tk/revised-text-widget.html)
+
+  Faster and improved text widget for Tk.
+
+- [Tk-Components](https://www.codebykevin.com/fossil.cgi/tk-components/dir?ci=tip)
+
+  Including TkWebview, TkDock, StatusIcon, QuickLook and many more.
 
 # Contributing
 
