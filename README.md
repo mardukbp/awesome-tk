@@ -14,6 +14,7 @@ A curated list of awesome Tk apps, tutorials and widgets.
   - [Software Development](#software-development)
   - [System Utilities](#system-utilities)
 * Developers
+  - [Books](#books)
   - [DSLs](#dsls)
   - [GUI Designers](#gui-designers)
   - [Tutorials](#tutorials)
