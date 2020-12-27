@@ -2,7 +2,7 @@
 
 1. This is a collection of awesome applications developed with Tk and resources to help developers create more.
 
-2. The entries in each category are sorted alphabetically. Please respect the order.
+2. Categories and the entries in each category are sorted alphabetically. Please respect the order.
 
 3. Include a Markdown link `[Link text](URL)` and a short description of the application or resource linked to. 
 
