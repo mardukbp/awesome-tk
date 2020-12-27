@@ -42,6 +42,10 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 ## Science and Engineering
 
+- [Cassiopée](http://elsa.onera.fr/Cassiopee/)
+
+  A set of Python modules for pre- and post-processing of CFD computations.
+
 - [EMANIM Classic](https://emanimclassic.szialab.org/)
 
   Visualize electromagnetic waves.
@@ -54,9 +58,17 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
   A stand-alone software package for fast & high performance processing of Single Molecule Localization Microscopy data.
 
+- [loon](https://great-northern-diver.github.io/loon)
+
+  An extensible interactive data visualization system designed for exploratory visualization.
+
 - [Partek® Genomics Suite®](https://www.partek.com/partek-genomics-suite/)
 
   A statistical analysis software that lets you analyze microarray, qPCR, and pre-processed NGS data.
+
+- [plotchart](https://wiki.tcl-lang.org/page/plotchart)
+
+  Simple yet versatile plotting and charting.
 
 - [SAOImageDS9](https://sites.google.com/cfa.harvard.edu/saoimageds9/home)
 
