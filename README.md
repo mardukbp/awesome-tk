@@ -30,16 +30,6 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
   Supports your bicycle design and build process of bespoked bicycle frames with a fully parametric bicycle model.  
 
-## Internet Utilities
-
-- [PyIDM](https://github.com/pyIDM/PyIDM)
-  
-  Open-source alternative to Internet Download Manager with a high-speed engine.
-
-- [QuickWho](https://www.codebykevin.com/quickwho.html)
-
-  Provides a rich array of information about specific Internet domains.
-
 ## Science and Engineering
 
 - [EMANIM Classic](https://emanimclassic.szialab.org/)
@@ -64,11 +54,15 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 ## Software Development
 
+- [IDLEX](idlex.sourceforge.net/)
+
+   A collection of over twenty extensions and plugins that enhance the Python IDE [IDLE](https://docs.python.org/3/library/idle.html).
+
 - [tkdiff](https://sourceforge.net/projects/tkdiff/)
 
   Side-by-side diff viewer, editor and merge preparer with several innovative features.
 
-## System Utilities
+## Utilities
 
 - [Expect](https://core.tcl-lang.org/expect)
 
@@ -76,11 +70,27 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 - [Manpower](https://www.codebykevin.com/manpower.html)
 
-  Search, Browse and Read Man Pages: Fast and Easy!
+  Search, Browse and Read Man Pages.
 
 - [PortAuthority](https://www.codebykevin.com/portauthority.html)
 
   Easy to use solution for managing MacPorts software packages.
+
+- [PyIDM](https://github.com/pyIDM/PyIDM)
+  
+  Open-source alternative to Internet Download Manager with a high-speed engine.
+
+- [QuickWho](https://www.codebykevin.com/quickwho.html)
+
+  Provides a rich array of information (including geographic data) about specific Internet domains.
+  
+- [Stringscan](https://www.codebykevin.com/stringscan.html)
+
+  Elegant Search for Text in Multiple Directories.
+
+- [TextSweep](https://www.codebykevin.com/textsweep.html)
+
+  Easy Batch Search-and-Replace in Text Files.
 
 - [Windows Inspection Tool Set](https://wits.magicsplat.com/)
 
