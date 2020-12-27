@@ -39,9 +39,13 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 ## Internet Utilities
 
-- [PyIDM | Open-source Alternative to Internet Download Manager](https://github.com/pyIDM/PyIDM)
+- [PyIDM](https://github.com/pyIDM/PyIDM)
   
-  With a high-speed engine, that supports multiple connections. Uses [youtube-dl](https://youtube-dl.org/).
+  Open-source alternative to Internet Download Manager with a high-speed engine.
+
+- [QuickWho](https://www.codebykevin.com/quickwho.html)
+
+  Provides a rich array of information about specific Internet domains.
 
 ## Science and Engineering
 
@@ -53,6 +57,14 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
   A stand-alone software package for fast & high performance processing of Single Molecule Localization Microscopy data.
 
+- [Partek® Genomics Suite®](https://www.partek.com/partek-genomics-suite/)
+
+  A statistical analysis software that lets you analyze microarray, qPCR, and pre-processed NGS data.
+
+- [SAOImageDS9](https://sites.google.com/cfa.harvard.edu/saoimageds9/home)
+
+  An image display and visualization tool for astronomical data.
+
 ## Software Development
 
 - [tkdiff](https://sourceforge.net/projects/tkdiff/)
@@ -60,6 +72,10 @@ A curated list of awesome Tk apps, tutorials and widgets.
   Side-by-side diff viewer, editor and merge preparer with several innovative features.
 
 ## System Utilities
+
+- [Expect](https://core.tcl-lang.org/expect)
+
+  A tool for automating interactive applications such as telnet, ftp, passwd, fsck, rlogin, tip, etc.
 
 - [Windows Inspection Tool Set](https://wits.magicsplat.com/)
 
