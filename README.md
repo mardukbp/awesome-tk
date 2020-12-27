@@ -8,10 +8,9 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 * Users
   - [Computer-Aided Design](#computer-aided-design)
-  - [Internet Utilities](#internet-utilities)
   - [Science and Engineering](#science-and-engineering)
   - [Software Development](#software-development)
-  - [System Utilities](#system-utilities)
+  - [Utilities](#utilities)
 * Developers
   - [Books](#books)
   - [DSLs](#dsls)
