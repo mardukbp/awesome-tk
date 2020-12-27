@@ -1,5 +1,7 @@
 # Awesome Tk [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Tk](tk.png)
+
 A curated list of awesome Tk apps, tutorials and widgets.
 
 # Contents
