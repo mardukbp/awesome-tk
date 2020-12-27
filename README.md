@@ -138,7 +138,7 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 - [AwesomeTkinter | Pretty Tkinter widgets](https://github.com/Aboghazala/AwesomeTkinter)
 
-  Including radial progress bar, scrollbar without arrows.
+  Including radial progress bar, scrollbar without arrows, and many others.
 
 - [Revised Implementation of Tk Text Widget](http://scidb.sourceforge.net/tk/revised-text-widget.html)
 
