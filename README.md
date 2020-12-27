@@ -11,6 +11,7 @@ A curated list of awesome Tk apps, tutorials and widgets.
   - [Education](#education)
   - [Internet Utilities](#internet-utilities)
   - [Science and Engineering](#science-and-engineering)
+  - [Software Development](#software-development)
   - [System Utilities](#system-utilities)
 * Developers
   - [DSLs](#dsls)
@@ -24,6 +25,10 @@ A curated list of awesome Tk apps, tutorials and widgets.
 - [BRL-CAD](https://brlcad.org/)
 
   A powerful open source cross-platform solid modeling system.
+
+- [rattleCAD](www.rattlecad.com/)
+
+  Supports your bicycle design and build process of bespoked bicycle frames with a fully parametric bicycle model.  
 
 ## Education
 
@@ -46,6 +51,12 @@ A curated list of awesome Tk apps, tutorials and widgets.
 - [Huygens Localizer | Scientific Volume Imaging](https://svi.nl/Huygens-Localizer)
 
   A stand-alone software package for fast & high performance processing of Single Molecule Localization Microscopy data.
+
+## Software Development
+
+- [tkdiff](https://sourceforge.net/projects/tkdiff/)
+
+  Side-by-side diff viewer, editor and merge preparer with several innovative features.
 
 ## System Utilities
 
