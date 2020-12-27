@@ -74,6 +74,14 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
   A tool for automating interactive applications such as telnet, ftp, passwd, fsck, rlogin, tip, etc.
 
+- [Manpower](https://www.codebykevin.com/manpower.html)
+
+  Search, Browse and Read Man Pages: Fast and Easy!
+
+- [PortAuthority](https://www.codebykevin.com/portauthority.html)
+
+  Easy to use solution for managing MacPorts software packages.
+
 - [Windows Inspection Tool Set](https://wits.magicsplat.com/)
 
   View operating system information, processes, services, users, network interfaces and connections, file shares, printers and more.
