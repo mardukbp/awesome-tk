@@ -39,7 +39,7 @@ A curated list of awesome Tk apps, tutorials and widgets.
 
 ## Science and Engineering
 
-- [GiD|https://www.gidhome.com/]
+- [GiD](https://www.gidhome.com/)
 
   A universal, adaptive and user-friendly pre and post processor for numerical simulations in science and engineering.
 
