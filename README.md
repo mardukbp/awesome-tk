@@ -16,6 +16,7 @@ A curated list of awesome Tk apps and resources for developers.
   - [Books](#books)
   - [DSLs](#dsls)
   - [GUI Designers](#gui-designers)
+  - [OS Integration](#os-integration)
   - [Tutorials](#tutorials)
   - [Widgets](#widgets)
 * [Contributing](#contributing)
@@ -136,9 +137,19 @@ A curated list of awesome Tk apps and resources for developers.
 
   GUI designer for Tk. Export the design as XML and load it in your code.
 
+- [PAGE](https://sourceforge.net/projects/page/)
+
+  A drag-and-drop GUI generator for Tkinter.
+  
 - [Pygubu](https://github.com/alejandroautalan/pygubu-designer)
 
   GUI designer for Tk. Export the design as XML and load it in your code.
+
+## OS Integration
+
+- [Tcl Windows API extension](https://twapi.magicsplat.com/)
+
+  The Tcl Windows API (TWAPI) extension provides Tcl bindings to the Windows API.
 
 ## Tutorials
 
