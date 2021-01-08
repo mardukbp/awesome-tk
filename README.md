@@ -7,9 +7,9 @@ A curated list of awesome Tk apps and resources for developers.
 # Contents
 
 * Applications
+  - [Audio](#audio)
   - [Computer-Aided Design](#computer-aided-design)
   - [Games](#games)
-  - [Multimedia Processing](#multimedia-processing)
   - [Science and Engineering](#science-and-engineering)
   - [Software Development](#software-development)
   - [Utilities](#utilities)
@@ -24,6 +24,17 @@ A curated list of awesome Tk apps and resources for developers.
   - [Tutorials](#tutorials)
   - [Widgets](#widgets)
 * [Contributing](#contributing)
+
+
+## Audio
+
+- [Pure Data](https://github.com/pure-data/pure-data)
+
+  A free real-time computer music system.
+
+- [WaveSurfer](https://sourceforge.net/projects/wavesurfer/)
+
+  An open source tool for sound visualization and manipulation. Typical applications are speech/sound analysis and sound annotation/transcription.
 
 ## Computer-Aided Design
 
@@ -44,12 +55,6 @@ A curated list of awesome Tk apps and resources for developers.
 - [Scid vs. PC](http://scidvspc.sourceforge.net/)
 
   A powerful Chess Toolkit. Create huge databases, run chess engines, and play casual games against the computer or online with the Free Internet Chess Server.
-
-## Multimedia Processing
-
-- [WaveSurfer](https://sourceforge.net/projects/wavesurfer/)
-
-  An open source tool for sound visualization and manipulation. Typical applications are speech/sound analysis and sound annotation/transcription.
 
 ## Science and Engineering
 
@@ -90,6 +95,10 @@ A curated list of awesome Tk apps and resources for developers.
 - [IDLEX](idlex.sourceforge.net/)
 
    A collection of over twenty extensions and plugins that enhance the Python IDE [IDLE](https://docs.python.org/3/library/idle.html).
+
+- [ProB](https://www3.hhu.de/stups/prob/index.php/Main_Page)
+
+  An animator, constraint solver and model checker for the B-Method.
 
 - [tkdiff](https://sourceforge.net/projects/tkdiff/)
 
