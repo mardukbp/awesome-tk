@@ -16,6 +16,7 @@ A curated list of awesome Tk apps and resources for developers.
 * Resources for Developers
   - [Android](#android)
   - [Books](#books)
+  - [Deployment](#deployment)
   - [DSLs](#dsls)
   - [Extension Libraries](#extension-libraries)
   - [GUI Designers](#gui-designers)
@@ -143,6 +144,12 @@ A curated list of awesome Tk apps and resources for developers.
 - [Modern Tkinter for Busy Python Developers by Mark Roseman](https://tkdocs.com/book.html)
 
   Quickly learn to create great looking user interfaces for Windows, Mac and Linux using Python's standard GUI toolkit.
+
+## Deployment
+
+- [freewrap](http://freewrap.sourceforge.net/)
+
+  Builds stand-alone TCL/TK executables on Windows and Linux. No compiler required!
 
 ## DSLs
 
