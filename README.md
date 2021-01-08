@@ -149,7 +149,7 @@ A curated list of awesome Tk apps and resources for developers.
 
 - [freewrap](http://freewrap.sourceforge.net/)
 
-  Builds stand-alone TCL/TK executables on Windows and Linux. No compiler required!
+  Build stand-alone TCL/TK executables on Windows and Linux. No compiler required!
 
 ## DSLs
 
