@@ -121,6 +121,10 @@ A curated list of awesome Tk apps and resources for developers.
 
 ## Books
 
+- [Einführung in Tcl/Tk](http://www.tcltk.info/buch.html)
+
+  Introduction to Tcl/Tk 8.6 for Beginners (in German).
+
 - [Modern Tkinter for Busy Python Developers by Mark Roseman](https://tkdocs.com/book.html)
 
   Quickly learn to create great looking user interfaces for Windows, Mac and Linux using Python's standard GUI toolkit.
