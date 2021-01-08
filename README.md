@@ -14,6 +14,7 @@ A curated list of awesome Tk apps and resources for developers.
   - [Software Development](#software-development)
   - [Utilities](#utilities)
 * Resources for Developers
+  - [Android](#android)
   - [Books](#books)
   - [DSLs](#dsls)
   - [Extension Libraries](#extension-libraries)
@@ -126,6 +127,12 @@ A curated list of awesome Tk apps and resources for developers.
 - [Windows Inspection Tool Set](https://wits.magicsplat.com/)
 
   View operating system information, processes, services, users, network interfaces and connections, file shares, printers and more.
+
+## Android
+
+- [AndroWish](https://www.androwish.org/home/home)
+
+  AndroWish allows to run desktop Tcl and Tk programs almost unaltered on the Android Platform.
 
 ## Books
 
