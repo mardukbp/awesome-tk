@@ -16,6 +16,7 @@ A curated list of awesome Tk apps and resources for developers.
 * Resources for Developers
   - [Books](#books)
   - [DSLs](#dsls)
+  - [Extension Libraries](#extension-libraries)
   - [GUI Designers](#gui-designers)
   - [OS Integration](#os-integration)
   - [Tutorials](#tutorials)
