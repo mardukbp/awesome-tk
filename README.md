@@ -9,6 +9,7 @@ A curated list of awesome Tk apps and resources for developers.
 * Applications
   - [Computer-Aided Design](#computer-aided-design)
   - [Games](#games)
+  - [Multimedia Processing](#multimedia-processing)
   - [Science and Engineering](#science-and-engineering)
   - [Software Development](#software-development)
   - [Utilities](#utilities)
@@ -40,6 +41,12 @@ A curated list of awesome Tk apps and resources for developers.
 - [Scid vs. PC](http://scidvspc.sourceforge.net/)
 
   A powerful Chess Toolkit. Create huge databases, run chess engines, and play casual games against the computer or online with the Free Internet Chess Server.
+
+## Multimedia Processing
+
+- [WaveSurfer](https://sourceforge.net/projects/wavesurfer/)
+
+  An open source tool for sound visualization and manipulation. Typical applications are speech/sound analysis and sound annotation/transcription.
 
 ## Science and Engineering
 
@@ -134,6 +141,16 @@ A curated list of awesome Tk apps and resources for developers.
 - [Glimmer DSL for Tk](https://github.com/AndyObtiva/glimmer-dsl-tk)
 
   Ruby-based DSL providing a declarative syntax for writing GUIs in Tk.
+
+## Extension Libraries
+
+- [tkImg](https://sourceforge.net/projects/tkimg/)
+
+  Supports the following image formats: BMP, GIF, ICO, JPEG, PCX, PNG, PPM, PS, SGI, SUN, TGA, TIFF, XBM, XPM. Special formats: DTED, RAW.
+
+- [VecTcl](https://auriocus.github.io/VecTcl/)
+
+  A numerical array extension for Tcl with support for vectors, matrices and higher-rank tensors of integers, floating point and complex numbers.
 
 ## GUI Designers
 
