@@ -202,6 +202,10 @@ A curated list of awesome Tk apps and resources for developers.
 
   This tutorial will quickly get you up and running with the latest Tk from Python, Tcl, Ruby, and Perl on macOS, Windows, or Linux.
 
+- [Tkinter Tutorial](https://www.pythontutorial.net/tkinter/)
+
+  This Tkinter tutorial introduces you to the exciting world of GUI programming in Python.
+  
 ## Widgets
 
 - [AwesomeTkinter | Pretty Tkinter widgets](https://github.com/Aboghazala/AwesomeTkinter)
