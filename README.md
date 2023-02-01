@@ -212,6 +212,10 @@ A curated list of awesome Tk apps and resources for developers.
 
   Including radial progress bar, scrollbar without arrows, and many others.
 
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
+
+  A modern and customizable python UI-library based on Tkinter 
+
 - [Revised Implementation of Tk Text Widget](http://scidb.sourceforge.net/tk/revised-text-widget.html)
 
   Faster and improved text widget for Tk.
